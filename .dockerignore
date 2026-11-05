@@ -1,0 +1,7 @@
+frontend/node_modules
+data/images
+data/demo_images
+.venv
+*.db
+__pycache__
+.pytest_cache
